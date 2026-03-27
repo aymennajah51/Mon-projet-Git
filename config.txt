@@ -1,0 +1,7 @@
+Git configuration commands used:
+
+git config user.name "Aymen Najah"
+git config user.email "tonemail@example.com"
+
+Verification command:
+git config --list
