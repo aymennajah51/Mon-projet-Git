@@ -1,7 +1,10 @@
-// Fonction générée avec IA
 function addition(a, b) {
     return a + b;
 }
 
-// Test
-console.log("Résultat:", addition(5, 3));
+function multiplication(a, b) {
+    return a * b;
+}
+
+console.log("Addition:", addition(5, 3));
+console.log("Multiplication:", multiplication(5, 3));
